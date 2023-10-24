@@ -1,7 +1,7 @@
 # Welcome!
 
 This is the repository for my website:
-https://jonathandoanephd.github.io/
+https://jonathandoanephd.github.io/Website_Tutoring/
 
 Dopetrope by HTML5 UP
 html5up.net | @ajlkn
